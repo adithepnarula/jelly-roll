@@ -1,0 +1,3 @@
+Jelly, Roll! is a smooth scroller game controlled by the Leap Motion Sensor built by myself, Avika, Kathy and Corbin. The player takes the blob on a magic carpet ride by moving his/her hand to control the height of the platform. The ultimate goal is to make it through all three levels without falling off the platform and successfully guide the Jelly to the hospital! 
+
+We used the LeapMotion library created Michael Heuer to help control hand gestures and Fisica, a processing library that provides wrappers for Box 2D functions, to power our game. Our game was featured in NYU Computer Science Showcase!
