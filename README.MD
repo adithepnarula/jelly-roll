@@ -5,9 +5,10 @@ We used the LeapMotion library created Michael Heuer to help control hand gestur
 
 Jelly, Roll! was created by Avika Narula, Adithep Narula, Katy Herrick, and Corbin Lee
 
-# Gifs of Jelly, Roll!
+#Jelly, Roll! Game play
 
 ![gameplay](/readme/gameplay.gif)
+
 User moves his/her hand to control the height of the platform
 
 ![level1](/readme/level1.gif)
@@ -20,7 +21,8 @@ Level 2 of Jelly, Roll!
 Level 3 of Jelly, Roll!
 
 ![win](/readme/win.gif)
-The winning page after user completes level 3. Jelly finally arrives at the hospital! 
+
+The winning page after user completes level 3. Jelly finally arrives at the hospital!
 
 #### For a full video of Jelly, Roll! please visit http://www.adithep.com/jellyroll.html
 
